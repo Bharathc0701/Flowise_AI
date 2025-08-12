@@ -5,4 +5,4 @@ idna==3.10
 requests==2.32.4
 setuptools==80.9.0
 urllib3==2.5.0
-pywin32==311; platform_system == "Windows"
+
